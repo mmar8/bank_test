@@ -1,7 +1,29 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/mariavanaale/Projects/10week/bank_test/spec/account_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/mariavanaale/Projects/10week/bank_test/lib/account.rb": [
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ]
     },
-    "timestamp": 1558474545
+    "timestamp": 1558475242
   }
 }

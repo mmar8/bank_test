@@ -6,5 +6,12 @@ class Account
 
   def initialize
     @transactions = []
+    @balance = 0.00
+  end
+
+  def deposit(amount, date)
+    @balance += amount
+    tr = { date: date, credit: '%.2f' % amount, debit: '', balance: '%.2f' % @balance }
+    @transactions.push(tr)
   end
 end

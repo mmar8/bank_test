@@ -93,9 +93,47 @@
 
       ],
       "/Users/mariavanaale/Projects/10week/bank_test/spec/transaction_spec.rb": [
-
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/mariavanaale/Projects/10week/bank_test/lib/transaction.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null
       ]
     },
-    "timestamp": 1558526554
+    "timestamp": 1558528218
   }
 }

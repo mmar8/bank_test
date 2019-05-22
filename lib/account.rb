@@ -2,7 +2,7 @@
 
 # class account
 class Account
-  attr_reader :transactions
+  attr_reader :transactions, :balance
 
   def initialize
     @transactions = []

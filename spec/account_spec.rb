@@ -29,7 +29,7 @@ describe Account do
   context 'withdraw from account' do
     before(:each) do
       @account.deposit(500, '01/05/2019')
-    end 
+    end
 
     it 'withdraws 100' do
       @account.withdraw(100, '01/05/2019')
@@ -37,7 +37,7 @@ describe Account do
         { date: '01/05/2019', credit: '500.00', debit: '', balance: '500.00' },
         { date: '01/05/2019', credit: '', debit: '100.00', balance: '400.00' }
       ]
-      expect(account.transactions).to eq(array)
+      expect(@account.transactions).to eq(array)
     end
 
     it 'withdraws 200' do
@@ -46,7 +46,7 @@ describe Account do
         { date: '01/05/2019', credit: '500.00', debit: '', balance: '500.00' },
         { date: '01/05/2019', credit: '', debit: '200.00', balance: '300.00' }
       ]
-      expect(account.transactions).to eq(array)
+      expect(@account.transactions).to eq(array)
     end
 
     it 'withdraws 300' do

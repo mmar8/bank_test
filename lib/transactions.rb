@@ -1,7 +1,7 @@
 require 'date' # frozen_string_literal: true
 
 # class transaction
-class Transaction
+class Transactions
 
   attr_reader :date, :deposit, :withdraw, :balance
   def initialize( date = Date.today, deposit, withdraw, balance)

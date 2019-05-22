@@ -90,35 +90,66 @@
         null
       ],
       "/Users/mariavanaale/Projects/10week/bank_test/spec/statement_spec.rb": [
-
-      ],
-      "/Users/mariavanaale/Projects/10week/bank_test/spec/transaction_spec.rb": [
         1,
         null,
         1,
+        2,
+        2,
         1,
         1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
         null,
         null
       ],
-      "/Users/mariavanaale/Projects/10week/bank_test/lib/transaction.rb": [
+      "/Users/mariavanaale/Projects/10week/bank_test/lib/statement.rb": [
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/mariavanaale/Projects/10week/bank_test/spec/transactions_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/mariavanaale/Projects/10week/bank_test/lib/transactions.rb": [
         1,
         null,
         null,
@@ -134,6 +165,6 @@
         null
       ]
     },
-    "timestamp": 1558528218
+    "timestamp": 1558558439
   }
 }

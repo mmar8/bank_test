@@ -2,6 +2,7 @@
 ## Specification
 
 ### User stories
+  ```
   As as bank user 
   I want to be able to do transactions at the bank.
   I would like to deposit money onto my account.
@@ -13,7 +14,7 @@
   As as bank user 
   I want to be able to keep track of my transactions.
   I want to be able to print my account statement with date, amount and balance.
-
+```
 
 ### Requirements
 

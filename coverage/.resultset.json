@@ -65,7 +65,7 @@
         null
       ],
       "/Users/mariavanaale/Projects/10week/bank_test/lib/account.rb": [
-        null,
+        1,
         null,
         null,
         1,
@@ -87,16 +87,9 @@
         3,
         3,
         null,
-        null
-      ],
-      "/Users/mariavanaale/Projects/10week/bank_test/spec/statement_spec.rb": [
-        1,
         null,
         1,
-        2,
-        2,
-        1,
-        1,
+        0,
         null,
         null
       ],
@@ -112,14 +105,20 @@
         null,
         1,
         1,
-        null,
-        null,
-        1,
-        1,
-        1,
         1,
         1,
         null,
+        1,
+        null,
+        null
+      ],
+      "/Users/mariavanaale/Projects/10week/bank_test/spec/statement_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        1,
         1,
         null,
         null
@@ -165,6 +164,6 @@
         null
       ]
     },
-    "timestamp": 1558558439
+    "timestamp": 1558560795
   }
 }

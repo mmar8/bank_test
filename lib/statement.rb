@@ -7,15 +7,10 @@ class Statement
     @account = account
   end
 
-  def print
-    statement_print
-  end
-
-private
   def statement_print
       header = 'date || deposit || withdraw || balance\n'
       @account.transactions.reverse_each do |tr|
-      p "#{tr[:date]} || #{tr[:deposit]} || #{tr[:withdraw]} || #{tr[:balance]}\n"
+      "#{tr[:date]} || #{tr[:deposit]} || #{tr[:withdraw]} || #{tr[:balance]}\n"
     end
     header
   end
